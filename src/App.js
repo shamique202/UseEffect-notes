@@ -8,7 +8,7 @@ function App() {
 // NOTES:
 // The effect happens after render
 // use with lifecycle methods (componentdidmount, componentwillunmount, etc)
-// occurs within a function 
+// occurs within the app function 
 // you can update state inside useEffect
 // helpful when fetching data using an API
 useEffect(() => {
